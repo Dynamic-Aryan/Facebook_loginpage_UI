@@ -25,22 +25,17 @@ To get started with the project, you need to have Node.js and npm installed on y
 
 - npm start
 
-- facebook-signup-page-clone/
+facebook-signup-page-clone/
 ├── node_modules/
 ├── public/
-│   ├── account icon.svg
-│   ├── cart icon.svg
-│   ├── ic1.png
-│   ├── ic2.webp
-│   ├── ic3.webp
-│   ├── ic4.png
+│   ├── favicon.png
+│   ├── fb.svg
 │   ├── index.html
-│   ├── ms.webp
-│   ├── mslogo.png
-│   ├── search.svg
 ├── src/
 │   ├── styles/
 │   │   ├── style.css
+│   ├── components/
+│   │   ├── SignupForm.js
 │   ├── App.js
 │   ├── index.js
 ├── .gitignore
